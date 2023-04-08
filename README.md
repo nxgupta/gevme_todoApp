@@ -6,7 +6,7 @@ Getting Started
 To get started, follow these steps:
 
 <h3>Clone the repository to your local machine:</h3>
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/nxgupta/gevme_todoApp.git
 
 <h3>Install the dependencies using your favorite package manager. For example, if you're using npm, run:</h3>
 npm install
